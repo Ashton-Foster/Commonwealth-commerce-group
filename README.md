@@ -1,2 +1,4 @@
-# Commonwealth-commerce-group
-Official website for commonwealth commerce group
+# Commonwealth Commerce Group Website
+
+Next.js site for Commonwealth Commerce Group.
+
