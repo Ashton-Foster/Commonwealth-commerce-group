@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useState } from "react";
+import { useState } from "react";
+
 
 export default function Page() {
   const [submitted, setSubmitted] = useState(false);
@@ -162,3 +163,4 @@ export default function Page() {
     </main>
   );
 }
+
